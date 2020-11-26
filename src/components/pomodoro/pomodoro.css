@@ -1,0 +1,22 @@
+.pomodoro {
+   background: linear-gradient(90deg, #f78ca0 0%, #f9748f 20.31%, #fd868c 66.67%, #fe9a8b 100%);
+   width: 100vw;
+   height: 100vh;
+   display: flex;
+   flex-direction: column;
+   justify-content: center;
+   align-items: center;
+}
+
+.svg {
+   font-size: 40px;
+   font-weight: bold;
+}
+
+.bb {
+   padding: 10px 30px;
+}
+
+.background {
+   background: linear-gradient(180deg, #48c6ef 0%, #6f86d6 100%);
+}
